@@ -1,15 +1,13 @@
-<footer class="mt-4">
-    <div class="container-fluid">
-      <div class="row align-items-center justify-content-lg-between">
-        <div class="col-lg-6 mb-lg-0 mb-4">
-          <div class="copyright text-center text-sm text-muted text-lg-start">
-            © <script>
-              document.write(new Date().getFullYear())
-            </script>,
-            made with <i class="fa fa-heart"></i> by
-            <a href="https://www.creative-tim.com" class="font-weight-bold" target="_blank">merindodev.com</a>
-          </div>
+<footer class="footer">
+    <div class="container footer--flex">
+        <div class="footer-start">
+            <p>2021 © Elegant Dashboard - <a href="elegant-dashboard.com" target="_blank"
+                    rel="noopener noreferrer">elegant-dashboard.com</a></p>
         </div>
-      </div>
+        <ul class="footer-end">
+            <li><a href="##">About</a></li>
+            <li><a href="##">Support</a></li>
+            <li><a href="##">Puchase</a></li>
+        </ul>
     </div>
-  </footer>
+</footer>
